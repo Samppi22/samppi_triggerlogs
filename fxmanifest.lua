@@ -1,0 +1,8 @@
+fx_version 'adamant'
+game 'gta5'
+author 'Samppi#1337'
+description 'Trigger logger'
+version '1.0.0'
+client_script 'c.lua'
+server_script 's.lua'
+shared_script 'config.lua'
